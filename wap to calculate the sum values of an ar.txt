@@ -1,0 +1,13 @@
+create a class book with member variables bood_id
+and pages. Then create a subclass fictionbooks with member
+variables called name. Create some instances of fictionbooks class and set the values of both
+subclass and superclass and display all member variables that have been
+initialized.
+
+
+create a class publication which has instances variables title and price.
+From this class derive two classes book and CDROM. book class has
+instance variable playtime. Both these classes have getdata()
+method() to get input from the user and putdata() to display the contents
+wap to create instances of these classes and demonstrate appropriate
+operations
